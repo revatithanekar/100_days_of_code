@@ -1,13 +1,4 @@
-# 100_days_of_code
-Goal
-I am committing to coding for 100 Days Straight to improving my problem Solving Skills,bulid real-world projects,and become a consistent developer.
 
-🚀 What I Will Learn
-Data Structures & Algorithms
-Web Development (HTML, CSS, JavaScript,python,)
-Git & GitHub workflow
-Problem-solving (Codeforces / LeetCode)
-Building real projects
 # 🚀 100 Days of Code – Full-Stack Developer Journey
 
 ## 🎯 Goal
